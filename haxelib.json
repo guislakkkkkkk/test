@@ -1,0 +1,22 @@
+{
+	"name":"extension-androidtools",
+	"url":"https://github.com/MAJigsaw77/extension-androidtools",
+	"license":"MIT",
+	"tags":[
+		"android",
+		"lime",
+		"openfl",
+		"jni",
+		"haxe"
+	],
+	"description":"A extension that uses OpenFL and Lime JNI to work that add's some functions from java to haxe.",
+	"version":"1.4.0",
+	"releasenote":"Crash fix",
+	"contributors":[
+		"MAJigsaw77"
+	],
+	"dependencies":{
+		"lime":"",
+		"openfl":""
+	}
+}
